@@ -1,12 +1,12 @@
 import { NgModule } from "@angular/core";
-import { TelefoneMaskDirective } from './telefone.directive';
+import { TelefoneDirective } from './telefone.directive';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 
 @NgModule({
     providers: [],
-    declarations: [TelefoneMaskDirective],
-    exports: [TelefoneMaskDirective],
+    declarations: [TelefoneDirective],
+    exports: [TelefoneDirective],
     imports: [
         FormsModule,
         CommonModule
