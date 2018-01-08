@@ -6,8 +6,8 @@
     "moduleResolution": "node",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "declaration": true,
-    "outDir": "./select",
+    "declaration": false,
+    "outDir": "./mask",
     "lib": ["es2015", "dom"],
     "baseUrl": "",
     "paths": {

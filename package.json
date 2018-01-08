@@ -1,6 +1,6 @@
 {
   "name": "ng2-telefone-mask",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Mascara para telefone que suporta 9 digitos.",
   "author": "Roberto Martins",
   "license": "ISC",
