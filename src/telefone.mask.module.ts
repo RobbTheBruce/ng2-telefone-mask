@@ -1,17 +1,17 @@
 import { NgModule } from "@angular/core";
-import { TelefoneMasks } from './telefone.directive';
+import { TelefoneMaskDirective } from './telefone.directive';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 
 @NgModule({
     providers: [],
-    declarations: [TelefoneMasks],
-    exports: [TelefoneMasks],
+    declarations: [TelefoneMaskDirective],
+    exports: [TelefoneMaskDirective],
     imports: [
         FormsModule,
         CommonModule
     ]
 })
-export class TelefoneMask {
+export class TelefoneMaskModule {
 
 }
