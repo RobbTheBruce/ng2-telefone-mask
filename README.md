@@ -1,4 +1,4 @@
-# ng2-select-2
+# ng2-telefone-mask
 
 Mascara para telefone que suporta 9 digitos.
 
