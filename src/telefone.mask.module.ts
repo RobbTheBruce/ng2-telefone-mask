@@ -5,8 +5,8 @@ import { FormsModule } from '@angular/forms';
 
 @NgModule({
     providers: [],
-    declarations: [TelefoneMask],
-    exports: [TelefoneMask],
+    declarations: [TelefoneMasks],
+    exports: [TelefoneMasks],
     imports: [
         FormsModule,
         CommonModule
