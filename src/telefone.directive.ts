@@ -1,7 +1,7 @@
 import { Directive, ElementRef, HostListener, Renderer } from '@angular/core';
 
 @Directive({
-    selector: '[TelefoneMask]'
+    selector: '[telefoneMask]'
 })
 export class TelefoneMaskDirective {
     public nativeElement: HTMLInputElement;
