@@ -1,13 +1,13 @@
 {
   "name": "ng2-telefone-mask",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "Mascara para telefone que suporta 9 digitos.",
   "author": "Roberto Martins",
   "license": "ISC",
   "keywords": [
     "custom",
     "angular 2",
-    "ng2",    
+    "ng2",
     "select"
   ],
   "repository": {
@@ -15,6 +15,13 @@
     "url": "https://github.com/bertinho20/ng2-telefone-mask.git"
   },
   "dependencies": {
+    "@angular/core": "~4.0.0",
+    "@angular/common": "^4.0.0",
+    "@types/source-map": "^0.5.0",
+    "@angular/forms": "^4.0.0",
+    "core-js": "^2.4.1",
+    "rxjs": "5.0.1",
+    "zone.js": "^0.8.4"
   },
   "devDependencies": {
     "@angular/core": "~4.0.0",
